@@ -1,0 +1,20 @@
+# WordPress
+*.log
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-*/ 
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/plugins/
+
+# OS X
+.DS_Store
+
+# Node.js
+node_modules/
+dist/
+
+# Environment variables
+.env
