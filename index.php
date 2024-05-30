@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <main>
-    test
+    <h2>Ensemble pour l'égalité des chances </h2>
     <?php
     if (have_posts()) :
         while (have_posts()) : the_post();
